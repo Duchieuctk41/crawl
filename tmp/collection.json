@@ -1,0 +1,565 @@
+{
+ "KIDS": [
+  {
+   "link": "/collections/thoi-trang-tre-em",
+   "name": "HÀNG MỚI NHẤT",
+   "page": "3"
+  },
+  {
+   "link": "/collections/giay-dep-tre-em",
+   "name": "XU HƯỚNG"
+  },
+  {
+   "link": "/collections/thoi-trang-tre-em",
+   "name": "Tất Cả thương hiệu"
+  },
+  {
+   "link": "/collections/thoi-trang-tre-em-skechers",
+   "name": "SKECHERS"
+  },
+  {
+   "link": "/collections/thoi-trang-tre-em-pedro",
+   "name": "PEDRO"
+  },
+  {
+   "link": "/collections/thoi-trang-tre-em-havaianas",
+   "name": "HAVAIANAS"
+  },
+  {
+   "link": "/collections/thoi-trang-tre-em-puma",
+   "name": "PUMA"
+  },
+  {
+   "link": "/collections/thoi-trang-tre-em-mlb",
+   "name": "MLB"
+  },
+  {
+   "link": "/collections/thoi-trang-be-trai",
+   "name": "Tất Cả bé trai"
+  },
+  {
+   "link": "/collections/thoi-trang-be-trai-skechers",
+   "name": "SKECHERS"
+  },
+  {
+   "link": "/collections/thoi-trang-be-trai-pedro",
+   "name": "PEDRO"
+  },
+  {
+   "link": "/collections/thoi-trang-be-trai-havaianas",
+   "name": "HAVAIANAS"
+  },
+  {
+   "link": "/collections/thoi-trang-be-trai-puma",
+   "name": "PUMA"
+  },
+  {
+   "link": "/collections/thoi-trang-be-trai-mlb",
+   "name": "MLB"
+  },
+  {
+   "link": "/collections/thoi-trang-be-gai",
+   "name": "Tất Cả bé gái"
+  },
+  {
+   "link": "/collections/thoi-trang-be-gai-skechers",
+   "name": "SKECHERS"
+  },
+  {
+   "link": "/collections/thoi-trang-be-gai-pedro",
+   "name": "PEDRO"
+  },
+  {
+   "link": "/collections/thoi-trang-be-gai-havaianas",
+   "name": "HAVAIANAS"
+  },
+  {
+   "link": "/collections/thoi-trang-be-gai-puma",
+   "name": "PUMA"
+  },
+  {
+   "link": "/collections/thoi-trang-be-gai-mlb",
+   "name": "MLB"
+  }
+ ],
+ "NAM": [
+  {
+   "link": "/collections/trang-phuc-nam",
+   "name": "Tất Cả trang phục",
+   "page": "16"
+  },
+  {
+   "link": "/collections/ao-nam",
+   "name": "Áo"
+  },
+  {
+   "link": "/collections/ao-mac-ngoai-nam",
+   "name": "Áo khoác"
+  },
+  {
+   "link": "/collections/do-the-thao-nam",
+   "name": "Đồ thể thao"
+  },
+  {
+   "link": "/collections/noi-y",
+   "name": "Nội y"
+  },
+  {
+   "link": "/collections/quan-nam-2",
+   "name": "Quần"
+  },
+  {
+   "link": "/collections/giay-dep-nam",
+   "name": "Tất Cả giày dép"
+  },
+  {
+   "link": "/collections/dep-nam-1",
+   "name": "Dép"
+  },
+  {
+   "link": "/collections/giay-boots-nam",
+   "name": "Giày boots"
+  },
+  {
+   "link": "/collections/giay-luoi-nam",
+   "name": "Giày lười"
+  },
+  {
+   "link": "/collections/giay-oxford-nam",
+   "name": "Giày oxford"
+  },
+  {
+   "link": "/collections/giay-sandals-nam",
+   "name": "Giày sandals"
+  },
+  {
+   "link": "/collections/giay-tay",
+   "name": "Giày tây"
+  },
+  {
+   "link": "/collections/giay-basketball-nam",
+   "name": "Giày basketball"
+  },
+  {
+   "link": "/collections/giay-motorsport-nam",
+   "name": "Giày motorsport"
+  },
+  {
+   "link": "/collections/giay-run-train-nam",
+   "name": "Giày run/train"
+  },
+  {
+   "link": "/collections/giay-teamsport-nam",
+   "name": "Giày teamsport"
+  },
+  {
+   "link": "/collections/giay-sneakers-nam",
+   "name": "Giày sneaker"
+  },
+  {
+   "link": "/collections/cham-soc-giay",
+   "name": "Chăm sóc giày"
+  },
+  {
+   "link": "/collections/tui-vi-nam",
+   "name": "Tất Cả túi ví balo"
+  },
+  {
+   "link": "/collections/tui-deo-cheo-nam",
+   "name": "Túi đeo chéo"
+  },
+  {
+   "link": "/collections/tui-deo-vai-nam",
+   "name": "Túi đeo vai"
+  },
+  {
+   "link": "/collections/tui-rut-day-nam",
+   "name": "Túi rút dây"
+  },
+  {
+   "link": "/collections/cap-xach-nam",
+   "name": "Cặp xách"
+  },
+  {
+   "link": "/collections/vali-tui-du-lich-nam",
+   "name": "Vali \u0026 túi du lịch"
+  },
+  {
+   "link": "/collections/balo-nam",
+   "name": "Balo"
+  },
+  {
+   "link": "/collections/vi-tien-nam",
+   "name": "Ví"
+  },
+  {
+   "link": "/collections/vi-dung-the-nam",
+   "name": "Ví đựng thẻ"
+  },
+  {
+   "link": "/collections/mat-kinh-nam",
+   "name": "Tất Cả mắt kính"
+  },
+  {
+   "link": "/collections/gong-kinh-nam",
+   "name": "Gọng kính"
+  },
+  {
+   "link": "/collections/kinh-mat-nam",
+   "name": "Kính mát"
+  },
+  {
+   "link": "/collections/phu-kien-nam-khac",
+   "name": "Tất Cả phụ kiện khác"
+  },
+  {
+   "link": "/collections/mu-non-nam",
+   "name": "Mũ nón"
+  },
+  {
+   "link": "/collections/tat-nam",
+   "name": "Tất"
+  },
+  {
+   "link": "/collections/that-lung-nam",
+   "name": "Thắt lưng"
+  },
+  {
+   "link": "/collections/phu-kien-nam-khac",
+   "name": "Phụ kiện khác"
+  }
+ ],
+ "NỮ": [
+  {
+   "link": "/collections/trang-phuc-nu",
+   "name": "Tất Cả trang phục",
+   "page": "36"
+  },
+  {
+   "link": "/collections/ao-nu",
+   "name": "Áo"
+  },
+  {
+   "link": "/collections/ao-khoac-kieu-nu",
+   "name": "Áo khoác"
+  },
+  {
+   "link": "/collections/dam",
+   "name": "Đầm"
+  },
+  {
+   "link": "/collections/do-the-thao-nu",
+   "name": "Đồ thể thao"
+  },
+  {
+   "link": "/collections/jumpsuits-nu",
+   "name": "Jumpsuits"
+  },
+  {
+   "link": "/collections/quan-nu",
+   "name": "Quần"
+  },
+  {
+   "link": "/collections/vay",
+   "name": "Váy"
+  },
+  {
+   "link": "/collections/vest-blazers-nu",
+   "name": "Vest \u0026 Blazer"
+  },
+  {
+   "link": "/collections/giay-dep-nu",
+   "name": "Tất Cả giày dép"
+  },
+  {
+   "link": "/collections/dep",
+   "name": "Dép"
+  },
+  {
+   "link": "/collections/giay-cao-got",
+   "name": "Giày cao gót"
+  },
+  {
+   "link": "/collections/giay-de-xuong",
+   "name": "Giày đế xuồng"
+  },
+  {
+   "link": "/collections/giay-boots-nu",
+   "name": "Giày boots"
+  },
+  {
+   "link": "/collections/giay-luoi-nu",
+   "name": "Giày lười"
+  },
+  {
+   "link": "/collections/giay-oxford-nu",
+   "name": "Giày oxford"
+  },
+  {
+   "link": "/collections/giay-sandals-nu",
+   "name": "Giày sandals"
+  },
+  {
+   "link": "/collections/giay-basketball-nu",
+   "name": "Giày basketball"
+  },
+  {
+   "link": "/collections/giay-motorsport-nu",
+   "name": "Giày motorsport"
+  },
+  {
+   "link": "/collections/giay-run-train-nu",
+   "name": "Giày run/train"
+  },
+  {
+   "link": "/collections/giay-teamsport-nu",
+   "name": "Giày teamsport"
+  },
+  {
+   "link": "/collections/giay-sneakers-nu",
+   "name": "Giày sneaker"
+  },
+  {
+   "link": "/collections/cham-soc-giay",
+   "name": "Chăm sóc giày"
+  },
+  {
+   "link": "/collections/tui-vi-nu",
+   "name": "Tất Cả túi ví balo"
+  },
+  {
+   "link": "/collections/tui-deo-cheo",
+   "name": "Túi đeo chéo"
+  },
+  {
+   "link": "/collections/tui-deo-vai-nu",
+   "name": "Túi đeo vai"
+  },
+  {
+   "link": "/collections/tui-rut-day",
+   "name": "Túi rút dây"
+  },
+  {
+   "link": "/collections/tui-tote-nu",
+   "name": "Túi tote"
+  },
+  {
+   "link": "/collections/tui-xach-tay-nu",
+   "name": "Túi xách"
+  },
+  {
+   "link": "/collections/vali-tui-du-lich-nu",
+   "name": "Vali \u0026 túi du lịch"
+  },
+  {
+   "link": "/collections/balo-nu",
+   "name": "Balo"
+  },
+  {
+   "link": "/collections/vi-tien-nu",
+   "name": "Ví"
+  },
+  {
+   "link": "/collections/vi-dung-the-nu",
+   "name": "Ví đựng thẻ"
+  },
+  {
+   "link": "/collections/mat-kinh-nu",
+   "name": "Tất Cả mắt kính"
+  },
+  {
+   "link": "/collections/gong-kinh-nu",
+   "name": "Gọng kính"
+  },
+  {
+   "link": "/collections/kinh-mat-nu",
+   "name": "Kính mát"
+  },
+  {
+   "link": "/collections/phu-kien-nu",
+   "name": "Tất Cả phụ kiện"
+  },
+  {
+   "link": "/collections/mu-non-nu",
+   "name": "Mũ nón"
+  },
+  {
+   "link": "/collections/tat-vo-nu",
+   "name": "Tất"
+  },
+  {
+   "link": "/collections/that-lung-nu",
+   "name": "Thắt lưng"
+  },
+  {
+   "link": "/collections/trang-suc-nu",
+   "name": "Trang sức"
+  },
+  {
+   "link": "/collections/khan-choang-nu",
+   "name": "Khăn choàng"
+  },
+  {
+   "link": "/collections/phu-kien-nu-khac",
+   "name": "Phụ kiện khác"
+  }
+ ],
+ "SPECIAL PRICE": [
+  {
+   "link": "/collections/sale-up-to-50",
+   "name": "Tất Cả a-z",
+   "page": "56"
+  },
+  {
+   "link": "/collections/adlv-khuyen-mai",
+   "name": "ADLV"
+  },
+  {
+   "link": "/collections/aojo-khuyen-mai",
+   "name": "AOJO"
+  },
+  {
+   "link": "/collections/charles-keith-khuyen-mai",
+   "name": "CHARLES \u0026 KEITH"
+  },
+  {
+   "link": "/collections/khuyen-mai-coach",
+   "name": "COACH"
+  },
+  {
+   "link": "/collections/khuyen-mai-dsquared2",
+   "name": "DSQUARED2"
+  },
+  {
+   "link": "/collections/havaianas-khuyen-mai",
+   "name": "HAVAIANAS"
+  },
+  {
+   "link": "/collections/gigi-khuyen-mai",
+   "name": "GIGI"
+  },
+  {
+   "link": "/collections/marhen-j-khuyen-mai",
+   "name": "MARHEN.J"
+  },
+  {
+   "link": "/collections/max-co-sale-up-to-50",
+   "name": "MAX\u0026Co."
+  },
+  {
+   "link": "/collections/khuyen-mai-mlb",
+   "name": "MLB"
+  },
+  {
+   "link": "/collections/mujosh-khuyen-mai",
+   "name": "MUJOSH"
+  },
+  {
+   "link": "/collections/khuyen-mai-pedro",
+   "name": "PEDRO"
+  },
+  {
+   "link": "/collections/puma-sale",
+   "name": "PUMA"
+  },
+  {
+   "link": "/collections/khuyen-mai-skechers",
+   "name": "SKECHERS"
+  },
+  {
+   "link": "/collections/khuyen-mai-ted-baker",
+   "name": "TED BAKER"
+  },
+  {
+   "link": "/collections/khuyen-mai-the-kooples",
+   "name": "THE KOOPLES"
+  },
+  {
+   "link": "/collections/topman",
+   "name": "TOPMAN"
+  },
+  {
+   "link": "/collections/topshop",
+   "name": "TOPSHOP"
+  },
+  {
+   "link": "/collections/khuyen-mai-weekend-max-mara",
+   "name": "WEEKEND MAX MARA"
+  }
+ ],
+ "THƯƠNG HIỆU": [
+  {
+   "link": "/collections/new-arrival",
+   "name": "Tất Cả a-z",
+   "page": "56"
+  },
+  {
+   "link": "/collections/adlv",
+   "name": "ADLV"
+  },
+  {
+   "link": "/collections/aojo",
+   "name": "AOJO"
+  },
+  {
+   "link": "/collections/charles-keith-new-arrivals",
+   "name": "CHARLES \u0026 KEITH"
+  },
+  {
+   "link": "/collections/coach",
+   "name": "COACH"
+  },
+  {
+   "link": "/collections/dsquared2",
+   "name": "DSQUARED2"
+  },
+  {
+   "link": "/collections/havaianas",
+   "name": "HAVAIANAS"
+  },
+  {
+   "link": "/collections/thuong-hieu-gigi",
+   "name": "GIGI"
+  },
+  {
+   "link": "/collections/marhen-j",
+   "name": "MARHEN.J"
+  },
+  {
+   "link": "/collections/max-co",
+   "name": "MAX\u0026Co."
+  },
+  {
+   "link": "/collections/mlb",
+   "name": "MLB"
+  },
+  {
+   "link": "/collections/mujosh",
+   "name": "MUJOSH"
+  },
+  {
+   "link": "/collections/pedro",
+   "name": "PEDRO"
+  },
+  {
+   "link": "/collections/puma",
+   "name": "PUMA"
+  },
+  {
+   "link": "/collections/skechers",
+   "name": "SKECHERS"
+  },
+  {
+   "link": "/collections/ted-baker",
+   "name": "TED BAKER"
+  },
+  {
+   "link": "/collections/the-kooples",
+   "name": "THE KOOPLES"
+  },
+  {
+   "link": "/collections/thuong-hieu-weekend-max-mara",
+   "name": "WEEKEND MAX MARA"
+  }
+ ]
+}
